@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kishan.world/](https://kishan.world/)
 
-- 📝 I regularly write articles on [https://shankishan.blogspot.com/](https://shankishan.blogspot.com/)
+- 📝 I write articles sometime on [https://shankishan.blogspot.com/](https://shankishan.blogspot.com/)
 
 - 💬 Ask me about **react,java,Data Structures**
 
