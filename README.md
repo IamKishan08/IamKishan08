@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkishan08" alt="iamkishan08" /></a> </p>
 
-- 🔭 I’m currently working on **A cross-platform mobile task management app built using React Native**
+- 🔭 I’m currently working on **A cross-platform mobile app built using React Native**
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👯 I’m looking to collaborate on **An open-source e-commerce application built with React Native. Contributors welcome!**
+- 👯 I’m looking to collaborate on **An online platform linking service provider and consumer. Contributors welcome!**
 
-- 🤝 I’m looking for help with **Building a e-commerce application using React Native. Seeking assistance with backend integration and UI improvements**
+- 🤝 I’m looking for help with **Building an online platform linking service provider and consumer. Seeking assistance with backend integration and UI improvements**
 
 - 👨‍💻 All of my projects are available at [https://kishan.world/](https://kishan.world/)
 
