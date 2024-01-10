@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkishan08" alt="iamkishan08" /></a> </p>
 
-- 🔭 I’m currently working on **A cross-platform mobile app built using React Native**
+- 🔭 I’m currently working on **Digital Ecom Store**
 
 - 🌱 I’m currently learning **ReactNative**
 
