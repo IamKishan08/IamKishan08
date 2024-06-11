@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automation Patching Tool**
 
-- 🌱 I’m currently learning **Java, SpringBoot, Angular, TypeScript, Mysql**
+- 🌱 I’m currently learning **Java, SpringBoot, Angular, TypeScript, Mysql, Ansible**
 
 - 👯 I’m looking to collaborate on **An online platform linking service provider and consumer. Contributors welcome!**
 
