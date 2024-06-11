@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkishan08" alt="iamkishan08" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Ecom Store**
+- 🔭 I’m currently working on **Automation Patching Tool**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Java, SpringBoot, Angular, TypeScript, Mysql**
 
 - 👯 I’m looking to collaborate on **An online platform linking service provider and consumer. Contributors welcome!**
 
