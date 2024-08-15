@@ -17,7 +17,7 @@
 
 - 📝 I write articles sometime on [https://shankishan.blogspot.com/](https://shankishan.blogspot.com/)
 
-- 💬 Ask me about **react,java,Data Structures**
+- 💬 Ask me about **Java,Data Structures and Algorithms,Linux(REDHAT,UBUNTU),DEVOPS Tools**
 
 - 📫 How to reach me **kishanshan08@outlook.com**
 
