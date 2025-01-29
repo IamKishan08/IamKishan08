@@ -7,21 +7,17 @@
 
 - 🔭 I’m currently working on **Automation Patching Tool**
 
-- 🌱 I’m currently learning **Java, SpringBoot, Angular, TypeScript, Mysql, Ansible**
+- 🌱 I’m currently learning **Java, SpringBoot, React, ShellScript, Mysql, Ansible**
 
 - 👯 I’m looking to collaborate on **An online platform linking service provider and consumer. Contributors welcome!**
 
 - 🤝 I’m looking for help with **Building an online platform linking service provider and consumer. Seeking assistance with backend integration and UI improvements**
-
-- 👨‍💻 All of my projects are available at [https://kishan.world/](https://kishan.world/)
 
 - 📝 I write articles sometime on [https://shankishan.blogspot.com/](https://shankishan.blogspot.com/)
 
 - 💬 Ask me about **Java,Data Structures and Algorithms,Linux(REDHAT,UBUNTU),DEVOPS Tools**
 
 - 📫 How to reach me **kishanshan08@outlook.com**
-
-- 📄 Know about my experiences [https://kishan.world/](https://kishan.world/)
 
 - ⚡ Fun fact **I once accidentally committed a code that played the theme song of my favorite TV show every time someone cloned the repository. 🎶 It turned out to be a hit among contributors! 🌟**
 
